@@ -1,1 +1,1 @@
-from jenkinsxio/jenkinsx:0.0.81
+from gcr.io/jenkinsxio/jenkinsx:0.0.81

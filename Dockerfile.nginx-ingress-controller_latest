@@ -1,1 +1,1 @@
-from gcr.io/jenkinsxio/nginx-ingress-controller
+from gcr.io/jenkinsxio/nginx-ingress-controller:latest

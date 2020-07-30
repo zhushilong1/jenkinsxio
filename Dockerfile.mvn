@@ -1,0 +1,1 @@
+from gcr.io/cloud-builders/mvn

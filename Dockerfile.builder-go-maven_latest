@@ -1,1 +1,1 @@
-from gcr.io/builder-go-maven
+from gcr.io/builder-go-maven:latest
